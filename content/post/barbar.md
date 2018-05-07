@@ -38,4 +38,5 @@ Peserta:
 Keterangan:    
 [√]: yakin bisa    
 [?]: tidak yakin bisa    
+[x]: tidak bisa    
 [ ]: belum konfirmasi    
