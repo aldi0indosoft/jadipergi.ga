@@ -9,7 +9,7 @@ Peserta:
 - [√] samid    
 - [?] dapid    
 - [√] masmik    
-- [ ] samsook    
+- [ ] samyud    
 - [x] iPul    
 - [√] waone    
 - [√] aldi    
