@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jadi Pergi Ga?</title>
+    <title>Jadi Pergi Ga ?</title>
     <link>http://jadipergi.ga/</link>
-    <description>Recent content on Jadi Pergi Ga?</description>
+    <description>Recent content on Jadi Pergi Ga ?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,13 +16,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jadipergi.ga/post/barbar/</guid>
-      <description>Lokasi: BarBar Chinesse Food
+      <description>Acara Makan - Makan Bareng
+Lokasi: BarBar Chinesse Food
 Biaya: Gratis
 Peserta:
 - [√] samid
 - [?] dapid
 - [√] masmik
-- [ ] samyud
+- [√] samyud
 - [x] iPul
 - [√] waone
 - [√] aldi
@@ -30,14 +31,15 @@ Peserta:
 - [√] vivan
 - [√] bram
 - [√] chris
-- [ ] samerik
+- [√] samerik
 - [√] osa
-- [ ] iMan
-- [ ] zazid
-- [ ] yaqin
-- [ ] dhega
-- [ ] pras
-- [ ] zayn</description>
+- [√] iMan
+- [√] zazid
+- [√] yaqin
+- [√] dhega
+- [√] pras
+- [√] zayn
+- [√] iBron</description>
     </item>
     
   </channel>

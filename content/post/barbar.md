@@ -3,13 +3,14 @@ title: "Pergi ke BarBar"
 schedule: "9. Mei, 2018 sepulang kerja"
 ---
 
+Acara Makan - Makan Bareng     
 Lokasi: [BarBar Chinesse Food](https://goo.gl/maps/JKivmu9bBhk)    
 Biaya: Gratis     
 Peserta:    
 - [√] samid    
 - [?] dapid    
 - [√] masmik    
-- [ ] samyud    
+- [√] samyud    
 - [x] iPul    
 - [√] waone    
 - [√] aldi    
@@ -17,21 +18,21 @@ Peserta:
 - [√] vivan    
 - [√] bram    
 - [√] chris    
-- [ ] samerik    
+- [√] samerik    
 - [√] osa    
-- [ ] iMan    
-- [ ] zazid    
-- [ ] yaqin    
-- [ ] dhega    
-- [ ] pras    
-- [ ] zayn    
-- [ ] iBron    
+- [√] iMan    
+- [√] zazid    
+- [√] yaqin    
+- [√] dhega    
+- [√] pras    
+- [√] zayn    
+- [√] iBron    
 - [ ] handoyo    
 - [?] habib    
 - [x] samron    
 - [ ] iRul    
 - [x] The Guh    
-- [ ] brian    
+- [√] brian    
 
 ==========    
 Keterangan:    
