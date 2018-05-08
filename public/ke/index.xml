@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kes on Jadi Pergi Ga ?</title>
+    <link>http://jadipergi.ga/ke/</link>
+    <description>Recent content in Kes on Jadi Pergi Ga ?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://jadipergi.ga/ke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pergi ke BarBar</title>
+      <link>http://jadipergi.ga/ke/barbar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jadipergi.ga/ke/barbar/</guid>
+      <description>Acara Makan - Makan Bareng
+Lokasi: BarBar Chinesse Food
+Biaya: Gratis
+Peserta: (21 Orang)
+- [√] samid
+- [√] masmik
+- [√] samyud
+- [√] waone
+- [√] aldi
+- [√] okka
+- [√] vivan
+- [√] bram
+- [√] chris
+- [√] samerik
+- [√] osa
+- [√] iMan
+- [√] zazid
+- [√] yaqin
+- [√] dhega
+- [√] pras
+- [√] zayn
+- [√] iBron
+- [√] brian</description>
+    </item>
+    
+  </channel>
+</rss>
