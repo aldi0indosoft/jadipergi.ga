@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://jadipergi.ga/post/barbar/</loc>
+    <loc>http://jadipergi.ga/ke/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jadipergi.ga/post/</loc>
-    <priority>0</priority>
+    <loc>http://jadipergi.ga/ke/barbar/</loc>
   </url>
   
   <url>
