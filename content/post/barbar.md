@@ -8,10 +8,8 @@ Lokasi: [BarBar Chinesse Food](https://goo.gl/maps/JKivmu9bBhk)
 Biaya: Gratis     
 Peserta:    
 - [√] samid    
-- [?] dapid    
 - [√] masmik    
 - [√] samyud    
-- [x] iPul    
 - [√] waone    
 - [√] aldi    
 - [√] okka    
@@ -27,12 +25,9 @@ Peserta:
 - [√] pras    
 - [√] zayn    
 - [√] iBron    
-- [ ] handoyo    
-- [?] habib    
-- [x] samron    
-- [ ] iRul    
-- [x] The Guh    
 - [√] brian    
+- [√] handoyo    
+- [√] iRul    
 
 ==========    
 Keterangan:    
