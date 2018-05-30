@@ -12,6 +12,6 @@ Biaya: Bayar Dewe2\
 - [√] amik\
 - [√] okka\
 - [√] vivan\
-![bram wai #1](/img/bukber-bram#1.png "Bram")\
-![bram wai #2](/img/bukber-bram#2.png "Bram")\
+![bram wai #1](/img/bukberbram1.png "Bram")\
+![bram wai #2](/img/bukberbram2.png "Bram")\
 - [√] bram\
