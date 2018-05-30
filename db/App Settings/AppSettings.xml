@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BridgePackage>
+  <App Name="Application1" Version="1.0" GUID="APA8A27C102ED54A1687125B0A5352C5B87E2516B4166000000C001E0000B4166000000100001000000000000000000000000000000000000000000000000000000000000000007A" Description="" FullApp="True" DataPackage="True" BridgeVersionCreated="12.3" BridgeVersionChanged="" ObjectDateCreated="2018-05-21T22:21:11" ObjectDateChanged="" ExportFormat="Custom" DistributionMode="Standard" AuthorID="B4166000">
+    <AppObjects>
+      <Object Type="TB" GUID="TB8438D63F7050422CB0A048FB8A3782797E2516B4166000000C001E0000B41660000001000010000000000000000000000000000000000000000000000000000000000000000076" Name="bukber" AppInitialSignature="B416600000010000" ObjectInitialSignature="B416600000010000" ObjectDateAdded="" BridgeVersionCreated="12.3" BridgeVersionChanged="12.3" ObjectDateCreated="2018-05-22T05:18:49" ObjectDateChanged="" DefaultImportAction="NEW" File="bukber_2018-May-22_0521.csv" DataDateUpdated="2018-05-22T05:20:59" FileType="TextTables" HasColumnHeader="True" FileFormat="CSVDelimited" />
+    </AppObjects>
+  </App>
+</BridgePackage>
